@@ -17,4 +17,4 @@ Take Project1 as an example:
 Other programs run in same way. The CMakeLists.txt can be edited when needed.
 
 ## Note
-All the demos are just for course and there must be some mistakes.
+All the demos are initially created for a course and there must be some mistakes.
