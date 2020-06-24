@@ -12,7 +12,7 @@ Take Project1 as an example:
 4. run '**./TCPServer**' to boot the server.
 5. open another terminal in current working path and run '**./TCPClient**' to boot the client.
 6. input words in client terminal then the server should receive and return the same words.
-7. input '**quit**' in client terminal and the connection will be cut down.
+7. input '**quit**' in client terminal and the connection will be cut off.
 
 Other programs run in same way. The CMakeLists.txt can be edited when needed.
 
