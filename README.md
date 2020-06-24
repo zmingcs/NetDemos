@@ -6,7 +6,7 @@ Four projects included explore computer network programming and I/O multiplexing
 All the programs are recommended to be compiled by CMake in Linux for convenience'sake as the CMakeLists.txt in each project has been edited properly.
 
 Take Project1 as an example:
-1. open a terminal in Linux and switch the current working path to '/Project1/TCPSocket'.
+1. open a terminal in Linux and switch the current working path to '/Project1/SocketProject'.
 2. run '**cmake .**'.
 3. run '**make**', then *TCPServer* and *TCPClient* should be produced.
 4. run '**./TCPServer**' to boot the server.
